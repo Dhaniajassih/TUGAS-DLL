@@ -1,0 +1,20 @@
+### Member 1
+
+* **Name:** AHMAD DHANI NUR RIDWAN
+* **NIM:** 103012500104
+* **My main contribution:** Menyusun logika awal program C++ dan menguji menu interaktif untuk operasi traversal maju serta mundur.
+* **What I learned about next and prev:** Pointer `next` sangat penting untuk berpindah ke node selanjutnya, sedangkan pointer `prev` memungkinkan perpindahan kembali ke node sebelumnya secara dua arah.
+* **The hardest part:** Memastikan logika perulangan menu tidak mengalami *infinite loop* saat pengguna memilih opsi berulang kali.
+* **What AI helped me with:** Merancang kerangka dasar struktur data *Doubly Linked List* dan struktur menu berbasis teks.
+* **What I changed or fixed myself:** Menguji langsung program dan memastikan semua fungsi *insert* dan *delete* berjalan dengan benar.
+
+---
+
+### Member 2
+
+* **Name:** MUHAMMAD ZEIN
+* **NIM:** 103012500304
+* **My main contribution:** Menguji implementasi penyisipan node di tengah (*Insert Middle*) serta penghapusan node di dalam rantai *Doubly Linked List*.
+* **What I learned about next and prev:** Pembaruan pointer `prev` dan `next` harus dilakukan secara sinkron agar rantai koneksi antar node tidak terputus (*dangling pointers*).
+* **The hardest part:** Menyesuaikan pointer node tetangga saat melakukan penghapusan node di tengah agar pointer awal dan akhir list tetap valid.
+* **What AI helped me with:** Memberikan penjelasan mengenai logika penanganan pointer ganda saat proses hapus dan sisip data.
